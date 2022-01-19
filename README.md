@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrShub2711
-- 👀 I’m interested in Graphic Designing and Web Designing
+- 👀 I’m interested in Web Development and Graphics Designing.
 - 🌱 I’m currently learning Front End Development.
 - 📫 You can mail me @shubhamprasad2711@gmail.com
 
